@@ -2,6 +2,8 @@
 
 Stage 1: scaffold, theme, animated navigation, phone sign-in, profile, pairing, Us home.
 
+Expo SDK 57 (works with the current App Store Expo Go).
+
 ## Run
 ```bash
 npm install
